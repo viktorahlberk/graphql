@@ -50,7 +50,7 @@ async function searchUser() {
   projectsdonearray = [];
   dateofexparray = [];
   objectIds = [];
-  userImage.src = "/404.jpg";
+  userImage.src = "https://viktorahlberk.github.io/graphql/404.jpg";
   userid.innerHTML = "";
   auditsdone.innerHTML = "";
   auditsreceived.innerHTML = "";
