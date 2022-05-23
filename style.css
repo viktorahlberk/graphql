@@ -1,0 +1,46 @@
+
+#search{
+    display: flex;
+    justify-content: center;
+}
+#profilePicture{
+    width: 100px;
+    height: 100px;
+}
+#userInfo{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#ui1{
+    display: flex;
+    flex-direction: column;
+}
+#ui2{
+    display: grid;
+}
+#username{
+    text-align: center;
+}
+/* #projectsdone{
+    display: ;
+} */
+#projectElement{
+    font-size: small;
+    /* width: 100%; */
+    /* display: flex; */
+    /* justify-content: space-between; */
+}
+table{
+    justify-content: space-between;
+}
+#doneProjectsClick{
+    cursor: pointer;
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.hide{
+    opacity: 0;
+}

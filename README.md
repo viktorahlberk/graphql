@@ -1,0 +1,1 @@
+https://viktorahlberk.github.io/graphql
